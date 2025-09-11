@@ -31,7 +31,55 @@
       "version": "1.1.0",
       "repo": "https://github.com/shugi12345/stremio-skip-button",
       "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
-    }
+    },
+    {
+      "name": "Enhanced Covers [Modern Glass Theme]",
+      "author": "Fxy",
+      "description": "Widens the cover images on the posters.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+    },
+    {
+      "name": "Enhanced Player [Modern Glass Theme]",
+      "author": "Fxy",
+      "description": "Enhances the video player with additional features and designs.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+    },
+    {
+      "name": "Enhanced Titles [Modern Glass Theme]",
+      "author": "Fxy",
+      "description": "Enhances the title bar with additional information.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+    },
+    {
+      "name": "Dynamic Hero [Modern Glass Theme]",
+      "author": "Fxy",
+      "description": "Netflix-style rotating hero banner.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+    },
+    {
+      "name": "Horizontal Navigation [Modern Glass Theme]",
+      "author": "Fxy",
+      "description": "Moves your vertical navigation bar to a horizontal position.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+    },
+    {
+      "name": "Move Progress Bar [Modern Glass Theme]",
+      "author": "Fxy",
+      "description": "Moves the progress bar into the title container.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+    },
   ],
   "themes": [
     {
@@ -42,6 +90,15 @@
       "repo": "https://github.com/REVENGE977/StremioAmoledTheme",
       "preview": "https://github.com/REVENGE977/stremio-enhanced/raw/main/images/amoled_screenshot.png",
       "download": "https://raw.githubusercontent.com/REVENGE977/StremioAmoledTheme/refs/heads/main/amoled.theme.css"
+    },
+    {
+      "name": "Modern Glass",
+      "author": "Fxy",
+      "description": "Modern Glass is a complete visual overhaul for Stremio Enhanced. It brings a sleek, glass-like aesthetic combined with powerful quality-of-life improvements for a truly modern streaming experience.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "preview": "https://github.com/Fxy6969/Stremio-Glass-Theme/raw/cover/assets/modrn-glass-preview.png",
+      "download": "https://raw.githubusercontent.com/Fxy6969/Stremio-Glass-Theme/refs/heads/cover/themes/liquid-glass.theme.css"
     }
   ]
 }
