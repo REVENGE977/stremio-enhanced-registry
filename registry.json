@@ -38,7 +38,7 @@
       "description": "Widens the cover images on the posters.",
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/enhanced-covers.plugin.js"
     },
     {
       "name": "Enhanced Player [Modern Glass Theme]",
@@ -46,7 +46,7 @@
       "description": "Enhances the video player with additional features and designs.",
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/enhanced-player.plugin.js"
     },
     {
       "name": "Enhanced Titles [Modern Glass Theme]",
@@ -54,7 +54,7 @@
       "description": "Enhances the title bar with additional information.",
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/enhanced-titlebar.plugin.js"
     },
     {
       "name": "Dynamic Hero [Modern Glass Theme]",
@@ -62,7 +62,7 @@
       "description": "Netflix-style rotating hero banner.",
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/hero-div.plugin.js"
     },
     {
       "name": "Horizontal Navigation [Modern Glass Theme]",
@@ -70,16 +70,8 @@
       "description": "Moves your vertical navigation bar to a horizontal position.",
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
-    },
-    {
-      "name": "Move Progress Bar [Modern Glass Theme]",
-      "author": "Fxy",
-      "description": "Moves the progress bar into the title container.",
-      "version": "1.0.0",
-      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/"
-    },
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/horizontal-navigation.plugin.js"
+    }
   ],
   "themes": [
     {
