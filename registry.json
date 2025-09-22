@@ -71,6 +71,14 @@
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
       "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/horizontal-navigation.plugin.js"
+    },    
+    {
+      "name": "Stremio Addon Manager",
+      "author": "Zcc09",
+      "description": "Reorganize and rename your Stremio addons from the client.",
+      "version": "1.8.1",
+      "repo": "https://github.com/Zcc09/stremio-addon-manager-plugin",
+      "download": "https://github.com/Zcc09/stremio-addon-manager-plugin/releases/download/Release/stremio-addon-manager.plugin.js"
     }
   ],
   "themes": [
