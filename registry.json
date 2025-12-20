@@ -71,7 +71,7 @@
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
       "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/horizontal-navigation.plugin.js"
-    },    
+    },
     {
       "name": "Stremio Addon Manager",
       "author": "Zcc09",
@@ -99,6 +99,14 @@
       "repo": "https://github.com/REVENGE977/StremioAmoledTheme",
       "preview": "https://github.com/REVENGE977/stremio-enhanced/raw/main/images/amoled_screenshot.png",
       "download": "https://raw.githubusercontent.com/REVENGE977/StremioAmoledTheme/refs/heads/main/amoled.theme.css"
+    },
+    {
+      "name": "Hide Titlebar Buttons",
+      "author": "mouadbt",
+      "description": "Hides the window controls (minimize, maximize, close) from the titlebar.",
+      "version": "1.0.0",
+      "repo": "https://github.com/mouadbt/hide-titlebar-buttons",
+      "download": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/hide-titlebar-buttons.css"
     }
   ]
 }
