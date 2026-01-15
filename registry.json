@@ -106,6 +106,7 @@
       "description": "Hides the window controls (minimize, maximize, close) from the titlebar.",
       "version": "1.0.0",
       "repo": "https://github.com/mouadbt/hide-titlebar-buttons",
+      "preview": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/assets/preview.png",
       "download": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/hide-titlebar-buttons.theme.css"
     }
   ]
