@@ -36,42 +36,58 @@
       "name": "Enhanced Covers [Modern Glass Theme]",
       "author": "Fxy",
       "description": "Widens the cover images on the posters.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/enhanced-covers.plugin.js"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0/enhanced-covers.plugin.js"
     },
     {
       "name": "Enhanced Player [Modern Glass Theme]",
       "author": "Fxy",
       "description": "Enhances the video player with additional features and designs.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/enhanced-player.plugin.js"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0/enhanced-player.plugin.js"
     },
     {
       "name": "Enhanced Titles [Modern Glass Theme]",
       "author": "Fxy",
       "description": "Enhances the title bar with additional information.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/enhanced-titlebar.plugin.js"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0/enhanced-titlebar.plugin.js"
     },
     {
       "name": "Dynamic Hero [Modern Glass Theme]",
       "author": "Fxy",
       "description": "Netflix-style rotating hero banner.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/hero-div.plugin.js"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0/hero-div.plugin.js"
     },
     {
       "name": "Horizontal Navigation [Modern Glass Theme]",
       "author": "Fxy",
       "description": "Moves your vertical navigation bar to a horizontal position.",
+      "version": "1.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0/horizontal-navigation.plugin.js"
+    },
+    {
+      "name": "Context Menu Fix [Modern Glass Theme]",
+      "author": "MrBlu03",
+      "description": "Fixes context menus appearing behind UI elements by moving them to the document root.",
       "version": "1.0.0",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/2.0/horizontal-navigation.plugin.js"
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0/context-menu-fix.plugin.js"
     },
+    {
+      "name": "Data Enrichment [Modern Glass Theme]",
+      "author": "MrBlu03",
+      "description": "Enriches movie and TV show details with TMDB data including enhanced cast, similar titles, collections, and ratings.",
+      "version": "1.0.0",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0/data-enrichment.plugin.js"
+    }, 
     {
       "name": "Stremio Addon Manager",
       "author": "Zcc09",
@@ -86,7 +102,7 @@
       "name": "Modern Glass",
       "author": "Fxy",
       "description": "Modern Glass is a complete visual overhaul for Stremio Enhanced. It brings a sleek, glass-like aesthetic combined with powerful quality-of-life improvements for a truly modern streaming experience.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
       "preview": "https://github.com/Fxy6969/Stremio-Glass-Theme/raw/cover/assets/modrn-glass-preview.png",
       "download": "https://raw.githubusercontent.com/Fxy6969/Stremio-Glass-Theme/refs/heads/cover/themes/liquid-glass.theme.css"
