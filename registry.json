@@ -9,6 +9,14 @@
       "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
     },
     {
+      "name": "Stremio Addon Manager",
+      "author": "Sul-404",
+      "description": "Enhanced UI for managing, reordering, and backing up addons.",
+      "version": "1.1.0",
+      "repo": "https://github.com/Sul-404/Stremio-Addon-Manager",
+      "download": "https://raw.githubusercontent.com/Sul-404/Stremio-Addon-Manager/main/addon-manager.1.1.0.plugin.js"
+    },
+    {
       "name": "Slash to Search",
       "author": "REVENGE977",
       "description": "A simple plugin that allows you to search for movies, series, and anime by typing a slash (/) in the search bar.",
