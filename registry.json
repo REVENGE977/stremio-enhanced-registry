@@ -131,6 +131,14 @@
       "repo": "https://github.com/mouadbt/hide-titlebar-buttons",
       "preview": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/assets/preview.png",
       "download": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/hide-titlebar-buttons.theme.css"
+    },
+    {
+      "name": "Stream Quality Picker",
+      "author": "JZOnTheGit",
+      "description": "Groups streams by resolution with smart ranking, visual badges, seeder strength bars, and one-tap Best Pick buttons.",
+      "version": "1.4.0",
+      "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
+      "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
     }
   ]
 }
