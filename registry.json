@@ -15,7 +15,7 @@
         "version": "0.1.2",
         "repo": "https://github.com/TheIntroDB/stremio-enhanced-plugin",
         "preview": "https://theintrodb.org/thumbnail.png",
-        "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/v0.1.2/tidb.plugin.js"
+        "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/0.1.2/tidb.plugin.js"
       },
       {
         "name": "Stremio Addon Manager",
