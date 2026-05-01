@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "repo": "https://github.com/mali-king/stremio-cinematic-title-enhancer",
         "download": "https://raw.githubusercontent.com/mali-king/stremio-cinematic-title-enhancer/refs/heads/main/data-enrichment.plugin.js"
-      }
+      },
       {
         "name": "Stremio AniSkip",
         "author": "REVENGE977",
