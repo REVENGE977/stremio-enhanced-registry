@@ -1,6 +1,14 @@
 {
   "plugins": [
       {
+        "name": "Cinematic Title Enhancer",
+        "author": "mali-king",
+        "description": "A plugin that pulls extra data using the TMDB and OMDb APIs and injects a bunch of new UI elements",
+        "version": "1.0.0",
+        "repo": "https://github.com/mali-king/stremio-cinematic-title-enhancer",
+        "download": "https://raw.githubusercontent.com/mali-king/stremio-cinematic-title-enhancer/refs/heads/main/data-enrichment.plugin.js"
+      }
+      {
         "name": "Stremio AniSkip",
         "author": "REVENGE977",
         "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
@@ -12,10 +20,10 @@
         "name": "TheIntroDB",
         "author": "TheIntroDB",
         "description": "Skip intros, recaps, credits, and previews in TV shows and movies in Stremio Enhanced using TheIntroDB API",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "repo": "https://github.com/TheIntroDB/stremio-enhanced-plugin",
         "preview": "https://theintrodb.org/thumbnail.png",
-        "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/0.2.0/tidb.plugin.js"
+        "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/0.2.1/tidb.plugin.js"
       },
       {
         "name": "Stremio Addon Manager",
