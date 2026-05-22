@@ -12,10 +12,10 @@
         "name": "TheIntroDB",
         "author": "TheIntroDB",
         "description": "Skip intros, recaps, credits, and previews in TV shows and movies in Stremio Enhanced using TheIntroDB API",
-        "version": "1.0.1",
+        "version": "1.1.0",
         "repo": "https://github.com/TheIntroDB/stremio-enhanced-plugin",
         "preview": "https://theintrodb.org/thumbnail.png",
-        "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/v1.0.1/tidb.plugin.js"
+        "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/v1.1.0/tidb.plugin.js"
       },
       {
         "name": "Stremio Addon Manager",
