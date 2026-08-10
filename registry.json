@@ -123,11 +123,11 @@
     },
     {
       "name": "Expand Stream Titles",
-      "author": "You",
+      "author": "Enkvaros",
       "description": "Fixes truncated stream title names in the streams sidebar by wrapping text.",
       "version": "1.0.0",
-      "repo": "https://github.com/REVENGE977/stremio-enhanced-registry",
-      "download": "https://gist.githubusercontent.com/Enkvaros/43f26fde62795e169f7e47377a58e5c1/raw/2660a409d037fd8776be43baa07767b89b42ed7f/gistfile1.txt"
+      "repo": "https://github.com/Enkvaros/stremio-enhanced-stream-titles-fixed",
+      "download": "https://github.com/Enkvaros/stremio-enhanced-stream-titles-fixed/releases/download/V1.0.0/expand-stream-titles.plugin.js"
     }
   ],
   "themes": [
