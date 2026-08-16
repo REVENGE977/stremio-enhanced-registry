@@ -120,6 +120,15 @@
       "version": "1.4.0",
       "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
       "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
+    },
+    {
+      "name": "Library Folders",
+      "author": "M-1u",
+      "description": "Organize your Library into folders and subfolders — right-click or drag an item to file it away, rubber-band multi-select, and bulk actions (mark all watched/unwatched, remove all). 100% local, nothing is synced.",
+      "version": "1.2.0",
+      "repo": "https://github.com/M-1u/stremio-library-folders",
+      "preview": "https://raw.githubusercontent.com/M-1u/stremio-library-folders/main/screenshots/folders-grid.png",
+      "download": "https://github.com/M-1u/stremio-library-folders/releases/download/v1.2.0/library-folders.plugin.js"
     }
   ],
   "themes": [
