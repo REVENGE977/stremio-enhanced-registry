@@ -125,10 +125,10 @@
       "name": "Library Folders",
       "author": "M-1u",
       "description": "Organize your Library into folders and subfolders — right-click or drag an item to file it away, rubber-band multi-select, and bulk actions (mark all watched/unwatched, remove all). 100% local, nothing is synced.",
-      "version": "1.3.0",
+      "version": "1.4.1",
       "repo": "https://github.com/M-1u/stremio-library-folders",
       "preview": "https://raw.githubusercontent.com/M-1u/stremio-library-folders/main/screenshots/folders-grid.png",
-      "download": "https://github.com/M-1u/stremio-library-folders/releases/download/v1.3.0/library-folders.plugin.js"
+      "download": "https://github.com/M-1u/stremio-library-folders/releases/download/v1.4.1/library-folders.plugin.js"
     }
   ],
   "themes": [
