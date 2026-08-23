@@ -1,55 +1,55 @@
 {
   "plugins": [
-      {
-        "name": "Stremio AniSkip",
-        "author": "REVENGE977",
-        "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
-        "version": "1.0.0",
-        "repo": "https://github.com/REVENGE977/stremio-aniskip",
-        "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
-      },
-      {
-        "name": "TheIntroDB",
-        "author": "TheIntroDB",
-        "description": "Skip intros, recaps, credits, and previews in TV shows and movies in Stremio Enhanced using TheIntroDB API",
-        "version": "1.1.4",
-        "repo": "https://github.com/TheIntroDB/stremio-enhanced-plugin",
-        "preview": "https://theintrodb.org/thumbnail.png",
-        "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/v1.1.4/tidb.plugin.js"
-      },
-      {
-        "name": "Stremio Addon Manager",
-        "author": "Sul-404",
-        "description": "Enhanced UI for managing, reordering, and backing up addons.",
-        "version": "1.1.0",
-        "repo": "https://github.com/Sul-404/Stremio-Addon-Manager",
-        "download": "https://raw.githubusercontent.com/Sul-404/Stremio-Addon-Manager/main/addon-manager.1.1.0.plugin.js"
-      },
-      {
-        "name": "Slash to Search",
-        "author": "REVENGE977",
-        "description": "A simple plugin that allows you to search for movies, series, and anime by typing a slash (/) in the search bar.",
-        "version": "1.0.1",
-        "repo": "https://github.com/REVENGE977/stremio-slash-to-search",
-        "download": "https://raw.githubusercontent.com/REVENGE977/SlashToSearch/refs/heads/main/SlashToSearch.plugin.js"
-      },
-      {
-        "name": "FilterStreams",
-        "author": "0xA18",
-        "description": "Filters a movie's/tv show episode's streams",
-        "version": "0.1.5",
-        "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
-        "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.2/filter-streams.plugin.js"
-      },
-      {
-        "name": "Stremio Intro Skip",
-        "author": "shugi12345",
-        "description": "Community-powered “Skip Intro” for shows and movies in Stremio Enhanced.",
-        "version": "1.1.0",
-        "repo": "https://github.com/shugi12345/stremio-skip-button",
-        "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
-      },
-      {
+    {
+      "name": "Stremio AniSkip",
+      "author": "REVENGE977",
+      "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
+      "version": "1.0.0",
+      "repo": "https://github.com/REVENGE977/stremio-aniskip",
+      "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
+    },
+    {
+      "name": "TheIntroDB",
+      "author": "TheIntroDB",
+      "description": "Skip intros, recaps, credits, and previews in TV shows and movies in Stremio Enhanced using TheIntroDB API",
+      "version": "1.1.4",
+      "repo": "https://github.com/TheIntroDB/stremio-enhanced-plugin",
+      "preview": "https://theintrodb.org/thumbnail.png",
+      "download": "https://github.com/TheIntroDB/stremio-enhanced-plugin/releases/download/v1.1.4/tidb.plugin.js"
+    },
+    {
+      "name": "Stremio Addon Manager",
+      "author": "Sul-404",
+      "description": "Enhanced UI for managing, reordering, and backing up addons.",
+      "version": "1.1.0",
+      "repo": "https://github.com/Sul-404/Stremio-Addon-Manager",
+      "download": "https://raw.githubusercontent.com/Sul-404/Stremio-Addon-Manager/main/addon-manager.1.1.0.plugin.js"
+    },
+    {
+      "name": "Slash to Search",
+      "author": "REVENGE977",
+      "description": "A simple plugin that allows you to search for movies, series, and anime by typing a slash (/) in the search bar.",
+      "version": "1.0.1",
+      "repo": "https://github.com/REVENGE977/stremio-slash-to-search",
+      "download": "https://raw.githubusercontent.com/REVENGE977/SlashToSearch/refs/heads/main/SlashToSearch.plugin.js"
+    },
+    {
+      "name": "FilterStreams",
+      "author": "0xA18",
+      "description": "Filters a movie's/tv show episode's streams",
+      "version": "0.1.5",
+      "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
+      "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.2/filter-streams.plugin.js"
+    },
+    {
+      "name": "Stremio Intro Skip",
+      "author": "shugi12345",
+      "description": "Community-powered \u201cSkip Intro\u201d for shows and movies in Stremio Enhanced.",
+      "version": "1.1.0",
+      "repo": "https://github.com/shugi12345/stremio-skip-button",
+      "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
+    },
+    {
       "name": "EnhancedCovers [Modern Glass]",
       "author": "Fxy rewritten and improved by MrBlu03",
       "description": "Widens the cover images in the Continue Watching section using background images with logo overlay.",
@@ -120,6 +120,14 @@
       "version": "1.4.0",
       "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
       "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
+    },
+    {
+      "name": "Collapsible Filters",
+      "author": "M-1u",
+      "description": "Adds a toggle to collapse/expand the filters row on Discover and Library, to reclaim vertical space for the grid.",
+      "version": "1.3.3",
+      "repo": "https://github.com/M-1u/stremio-collapsible-filters",
+      "download": "https://github.com/M-1u/stremio-collapsible-filters/releases/download/v1.3.3/collapsible-filters.plugin.js"
     }
   ],
   "themes": [
