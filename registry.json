@@ -120,6 +120,14 @@
       "version": "1.4.0",
       "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
       "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
+    },
+    {
+      "name": "Anilist Sync",
+      "author": "GefyDev",
+      "description": "Automated anime tracking plugin for Stremio Enhanced that seamlessly synchronizes your watched anime episodes with your AniList profile in real-time.",
+      "version": "1.0.0",
+      "repo": "https://github.com/gefydev/anilist-plugin-stremio",
+      "download": "https://github.com/gefydev/anilist-plugin-stremio/releases/download/v1.0.0/AniListSync.plugin.js"
     }
   ],
   "themes": [
