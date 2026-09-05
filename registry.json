@@ -120,9 +120,14 @@
       "version": "1.4.0",
       "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
       "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
-    }
-  ],
-  "themes": [
+    },
+    {
+      "name": "ExpandStreamTitles",
+      "description": "Removes text truncation on stream links, allowing full release titles to display.",
+      "version": "1.0.1",
+      "author": "Enkvaros",
+      "download": "https://github.com/Enkvaros/stremio-enhanced-stream-titles-fixed/releases/download/v1.0.1/expand-stream-titles.plugin.js"
+    },
     {
       "name": "Modern Glass",
       "author": "Fxy",
