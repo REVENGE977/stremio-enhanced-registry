@@ -37,9 +37,9 @@
       "name": "FilterStreams",
       "author": "0xA18",
       "description": "Filters a movie's/tv show episode's streams",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
-      "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.2/filter-streams.plugin.js"
+      "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.3/filter-streams.plugin.js"
     },
     {
       "name": "Stremio Intro Skip",
