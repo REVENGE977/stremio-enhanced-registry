@@ -9,6 +9,14 @@
       "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
     },
     {
+        "name": "IntroDB",
+        "author": "Akar1881",
+        "description": "Skip intros, recaps, credits, and previews in TV shows and movies in Stremio Enhanced using IntroDB API",
+        "version": "1.0.0",
+        "repo": "https://github.com/Akar1881/stremio-enhanced-plugin",
+        "download": "https://github.com/Akar1881/stremio-enhanced-plugin/releases/download/1.0.0/introdb.plugin.js"
+    },
+    {
       "name": "TheIntroDB",
       "author": "TheIntroDB",
       "description": "Skip intros, recaps, credits, and previews in TV shows and movies in Stremio Enhanced using TheIntroDB API",
