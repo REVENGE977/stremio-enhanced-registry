@@ -256,10 +256,10 @@
       "name": "dx.bi",
       "author": "dx.bi",
       "description": "Companion plugin for the dx.bi Netflix-style theme: rotating billboard, Netflix-style hover previews with IMDb ratings, seek-bar thumbnails, stream sort and filter bar, optional Anime4K/sharpen picture enhancement, intro and UI sounds. All configurable in Settings.",
-      "version": "2.5.0",
+      "version": "2.5.1",
       "repo": "https://github.com/notdxbi/dxbi-stremio",
       "preview": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/main/screenshots/home.jpg",
-      "download": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/v2.5.0/dxbi.plugin.js"
+      "download": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/v2.5.1/dxbi.plugin.js"
     }
   ],
   "themes": [
