@@ -255,11 +255,11 @@
     {
       "name": "dx.bi",
       "author": "dx.bi",
-      "description": "Companion plugin for the dx.bi Netflix-style theme: rotating billboard, Netflix-style hover previews with IMDb ratings, seek-bar thumbnails, stream sort and filter bar, watch parties with friends (synced playback, chat, end-to-end encrypted), optional Anime4K/sharpen picture enhancement, intro and UI sounds. All configurable in Settings.",
-      "version": "2.7.0",
+      "description": "The full dx.bi experience in one plugin: rotating billboard, Netflix-style hover previews with IMDb/Kitsu/AniList ratings, Skip Intro & Next Episode (TheIntroDB + AniSkip), addon order & backup, subtitle styles, picture-in-picture, open in mpv/VLC, seek-bar thumbnails, stream sort and filter bar, end-to-end encrypted watch parties, optional Anime4K/sharpen picture enhancement, intro and UI sounds. All configurable in Settings.",
+      "version": "2.8.0",
       "repo": "https://github.com/notdxbi/dxbi-stremio",
       "preview": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/main/screenshots/home.jpg",
-      "download": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/v2.7.0/dxbi.plugin.js"
+      "download": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/v2.8.0/dxbi.plugin.js"
     }
   ],
   "themes": [
@@ -301,7 +301,7 @@
       "name": "dx.bi",
       "author": "dx.bi",
       "description": "A Netflix-style look for Stremio: top nav, billboard hero, landscape rows, Netflix-style detail pages and player. Pair with the dx.bi plugin for the full experience.",
-      "version": "2.7.0",
+      "version": "2.8.0",
       "repo": "https://github.com/notdxbi/dxbi-stremio",
       "preview": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/main/screenshots/home.jpg",
       "download": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/main/dxbi.theme.css"
