@@ -296,15 +296,6 @@
       "version": "1.0.0",
       "repo": "https://github.com/JackVonDanger/stremio-mint-dark",
       "download": "https://raw.githubusercontent.com/JackVonDanger/stremio-mint-dark/refs/heads/main/mint-y-dark.theme.css"
-    },
-    {
-      "name": "dx.bi",
-      "author": "dx.bi",
-      "description": "A Netflix-style look for Stremio: top nav, billboard hero, landscape rows, Netflix-style detail pages and player. Pair with the dx.bi plugin for the full experience.",
-      "version": "2.10.6",
-      "repo": "https://github.com/notdxbi/dxbi-stremio",
-      "preview": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/main/screenshots/home.jpg",
-      "download": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/main/dxbi.theme.css"
     }
   ]
 }
