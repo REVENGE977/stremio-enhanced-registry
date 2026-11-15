@@ -273,15 +273,6 @@
       "download": "https://raw.githubusercontent.com/REVENGE977/StremioAmoledTheme/refs/heads/main/amoled.theme.css"
     },
     {
-      "name": "Hide Titlebar Buttons",
-      "author": "mouadbt",
-      "description": "Hides the window controls (minimize, maximize, close) from the titlebar.",
-      "version": "1.0.0",
-      "repo": "https://github.com/mouadbt/hide-titlebar-buttons",
-      "preview": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/assets/preview.png",
-      "download": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/hide-titlebar-buttons.theme.css"
-    },
-    {
       "name": "Mint Dark",
       "author": "JackVonDanger",
       "description": "A theme for Stremio Enhanced that matches the Mint-Y-Dark colors",
