@@ -252,6 +252,15 @@
       "repo": "https://github.com/notdxbi/dxbi-stremio",
       "preview": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/main/screenshots/home.jpg",
       "download": "https://raw.githubusercontent.com/notdxbi/dxbi-stremio/v2.21.1/dxbi.plugin.js"
+    },
+    {
+      "name": "Dual Subtitles",
+      "author": "REVENGE977",
+      "description": "Display two subtitle tracks simultaneously for language learning. Select Primary and Secondary subtitles right inside Stremio's subtitle menu with independent position, opacity, font size, color, and sync delay.",
+      "version": "1.0.0",
+      "repo": "https://github.com/REVENGE977/Stremio-Dual-Subtitles",
+      "download": "https://github.com/REVENGE977/Stremio-Dual-Subtitles/releases/download/v1.0.0/dual-subtitles.plugin.js",
+      "preview": "https://raw.githubusercontent.com/REVENGE977/Stremio-Dual-Subtitles/refs/heads/main/preview.jpg"
     }
   ],
   "themes": [
